@@ -1,3 +1,2 @@
 # Capstone-Sem5-ConvergedNetwork
 Design and implementation of a converged network for organizational environments, developed as part of the 5th semester Capstone Project at ITSOEH. This academic project integrates distributed databases, wireless point-to-point links, and multi-OS infrastructure, with a focus on sustainable development and secure communication standards.
-hola

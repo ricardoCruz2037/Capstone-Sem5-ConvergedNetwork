@@ -10,6 +10,7 @@ Este módulo analiza el impacto ambiental del proyecto y la aplicación de estra
 ## Contenido
 | Elemento | Descripción |
 |-----------|-------------|
+| `app/` | Aplicacion tipo calculadora de impacto ambiental y energético. |
 | `analisis-huella.md` | Evaluación de impacto ambiental y energético. |
 | `graficas/` | Resultados visuales y métricas. |
 | `recursos/` | Documentación de apoyo y fuentes de consulta. |

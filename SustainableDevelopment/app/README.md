@@ -33,13 +33,11 @@ Los resultados se muestran tanto en formato numérico como gráfico, lo que perm
 
 Para cada dispositivo, el cálculo de consumo y emisiones se realiza con las siguientes fórmulas:
 
-\[
-\text{kWh}_{dispositivo} = \frac{Potencia\_W \times Horas\_diarias \times Días\_de\_uso}{1000}
-\]
+```text
+kWh_dispositivo = (Potencia_W × Horas_diarias × Días_de_uso) / 1000
 
-\[
-\text{CO₂}_{dispositivo} = \text{kWh}_{dispositivo} \times \text{Factor\_de\_emisión}
-\]
+CO₂_dispositivo = kWh_dispositivo × Factor_de_emisión
+```
 
 Donde el **factor de emisión (kg CO₂/kWh)** depende de la fuente de energía seleccionada.
 

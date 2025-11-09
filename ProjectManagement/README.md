@@ -12,7 +12,7 @@ Este módulo reúne los elementos de **planificación, organización y control**
 |-----------|-------------|
 | `gantt.png` | Diagrama de Gantt del proyecto. |
 | `presupuesto.xlsx` | Planificación financiera y de recursos. |
-| `roles-equipo.md` | Asignación de roles y funciones. |
+| `costos.pdf` | Documentacion sobre los costos del proyecto. |
 
 ## Competencias Aplicadas
 - Gestión del tiempo y recursos.  
